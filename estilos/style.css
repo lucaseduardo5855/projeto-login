@@ -38,6 +38,9 @@ section#login{
     height: 500px;
     border-radius: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.459);
+
+    transition: width 0.8s, height 0.8s; /* faz uma transição das letras e a imagem de 0.8 segundos */
+    transition-timing-function: ease; /* Suavizar a animação */
 }
 
 section#login > div#imagem{

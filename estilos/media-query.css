@@ -25,7 +25,8 @@ Grandes telas: acima de 1440px */
 
     section#login > div#formulario{
         float: left;
-        width: 70%;
+        width: 40%;
+        margin-top: 5px;
     }
 }
 
@@ -47,7 +48,7 @@ Grandes telas: acima de 1440px */
 
     section#login > div#formulario{
         float: left;
-        width: 50%;
+        width: 30%;
     }
 
     div#formuilario > h1{
